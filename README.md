@@ -1,4 +1,4 @@
-# NeuroID_NodeJS_Example
+# NeuroID_NodeExpressJS_Example
 
 Step 1 - Download the repo 
 
